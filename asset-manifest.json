@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "./martincouceirovlasak/static/css/main.94ee1561.css",
+    "main.js": "./martincouceirovlasak/static/js/main.e8ed18e9.js",
+    "static/js/787.669789d8.chunk.js": "./martincouceirovlasak/static/js/787.669789d8.chunk.js",
+    "index.html": "./martincouceirovlasak/index.html",
+    "main.94ee1561.css.map": "./martincouceirovlasak/static/css/main.94ee1561.css.map",
+    "main.e8ed18e9.js.map": "./martincouceirovlasak/static/js/main.e8ed18e9.js.map",
+    "787.669789d8.chunk.js.map": "./martincouceirovlasak/static/js/787.669789d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94ee1561.css",
+    "static/js/main.e8ed18e9.js"
+  ]
+}
